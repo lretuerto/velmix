@@ -1,0 +1,9 @@
+﻿openapi: 3.1.0
+info:
+  title: VELMiX API
+  version: 1.0.0
+  description: Contrato inicial Sprint 0 para POS, Inventario y Facturación.
+servers:
+  - url: https://api.velmix.local
+paths: {}
+components: {}
